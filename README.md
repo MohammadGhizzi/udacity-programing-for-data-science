@@ -1,17 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+**#Programming For Data Science Nano Degree**
 
-### Date created
-Include the date you created this project and README file.
+####DATE Created: 19/12/2022
 
-### Project Title
-Replace the Project Title
+**##Working repo for the third and fourth projects in this nanodegree ;)**
 
-### Description
-Describe what your project is about and what it does
+####It's a CLI program developed to make the user explore  US bikeshare system database and retrieve statistics information. Users are able to filter the info by city, month and weekday, in order to visualize the data.
 
-### Files used
-Include the files used
+**##Resources:**
+>#####panda documentation.
+>#####numpy documentation.
+>#####python documetation.
+>#####w3school.
+>#####stackoverflow.
+>#####Some coding discord servers.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+**#Thanks ^^**

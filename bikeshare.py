@@ -71,7 +71,7 @@ def load_data(city, month, day):
         month = months.index(month) + 1
 
         # Filte by month to create new dataframe
-        df = df[df['month'] == month]
+        df = df[df['month'] ==month]
         
     # Filter by day of week if applicable
     if day != 'all':
